@@ -1,0 +1,53 @@
+/* utilities */
+
+body {
+    background-color: #F6F6F6;
+}
+
+li {
+    list-style-type: none;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+}
+
+.bg-white {
+    background: #FFFFFF;
+}
+
+.bb-1 {
+    border-bottom: 1px solid #CDCDCD;
+}
+
+.b-none {
+    border: none
+}
+
+.h-350 {
+    height: 350px;
+}
+
+.h-300 {
+    height: 300px;
+}
+
+.mt-55 {
+    margin-top: 55px;
+}
+
+.author-img-style {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+
+li:hover {
+    color: #0D6EFD;
+    transition: 0.2s ease-in;
+}
+
+.fw-700 {
+    font-weight: 700;
+}
